@@ -1,0 +1,14 @@
+.Selectedschema_select{
+    width: 70%;
+    outline: none;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    margin-left: 12%;
+}
+
+.Selectedschema_div{
+    border: 1px solid skyblue;
+    padding: 3px;
+    width: 90%;
+    margin-bottom: 3%;
+}
